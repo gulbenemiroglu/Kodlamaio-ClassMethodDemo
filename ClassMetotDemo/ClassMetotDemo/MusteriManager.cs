@@ -24,5 +24,4 @@ namespace ClassMetotDemo
             Console.WriteLine($"{musteri.Name} {musteri.LastName} sistemden silindi");
         }
     }
-
 }
